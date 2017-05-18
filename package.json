@@ -1,6 +1,6 @@
 {
   "name": "bcc-squash_the_virus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple game simulating hunting a virus",
   "main": "app.js",
   "scripts": {
