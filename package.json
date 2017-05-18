@@ -1,0 +1,19 @@
+{
+  "name": "bcc-squash_the_virus",
+  "version": "1.0.0",
+  "description": "Simple game simulating hunting a virus",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandoncabael/bcc-squash_the_virus.git"
+  },
+  "author": "brandon cabael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandoncabael/bcc-squash_the_virus/issues"
+  },
+  "homepage": "https://github.com/brandoncabael/bcc-squash_the_virus#readme"
+}
