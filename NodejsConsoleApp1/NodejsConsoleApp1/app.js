@@ -1,5 +1,8 @@
 'use strict';
 
+var bios = function () {
+
+}
 console.log("Hello, I am a virus and I would like to play a game with you...")
 console.log("Here is the issue, I'm attempting to infect your system and many other systems around the world...")
 console.log("But I do not want to do this silently, and I would like to give you a chance to un-infect your system...")
