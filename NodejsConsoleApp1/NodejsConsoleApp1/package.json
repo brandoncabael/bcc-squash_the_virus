@@ -5,5 +5,8 @@
   "main": "app.js",
   "author": {
     "name": "brand"
+  },
+  "dependencies": {
+    "cmr1-cli": "^0.1.6"
   }
 }

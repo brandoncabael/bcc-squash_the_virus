@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brandoncabael/bcc-squash_the_virus/issues"
   },
-  "homepage": "https://github.com/brandoncabael/bcc-squash_the_virus#readme"
+  "homepage": "https://github.com/brandoncabael/bcc-squash_the_virus#readme",
+  "dependencies": {
+    "cmr1-cli": "^0.1.6"
+  }
 }
